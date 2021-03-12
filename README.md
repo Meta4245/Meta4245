@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EagleOnGitHub
+- 👀 I’m interested in Data Science, ML, and Mathematics
+- 🌱 I’m currently learning Mathematica
+- 📫 How to reach me: DM Me on Discord (Meta#4777)
