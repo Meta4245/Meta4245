@@ -1,1 +1,2 @@
-i am stupid person who does stupid things
+Recreational programmer.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eagleongithub)](https://github.com/anuraghazra/github-readme-stats)
