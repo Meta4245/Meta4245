@@ -1,5 +1,4 @@
 muslim <br />
-matrix: `@metaaa:matrix.org` <br />
-discord: `Meta#4245` <br />
+meta4245 on discord <br />
 English, Arabic <br />
-JS, C, C++, Rust <br />
+C, Zig, Rust
